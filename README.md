@@ -15,3 +15,10 @@ A web application that supports authentication is used in compliance with the SO
 - displaying the list of manufacturers
 - removing manufacturers
 - driver logging out
+- 
+# Project structure
+Project used 3-tier architecture:
+1.Data access tier -> handled by DAO;
+2.Business logic tier -> handled by Service;
+3.Presentation tier -> handled by Controllers and JSP pages.
+![img](https://user-images.githubusercontent.com/111267682/220085546-10bdddea-a42f-4402-915a-6ecd37e54552.png)
