@@ -26,3 +26,11 @@ Project used 3-tier architecture:
 3.Presentation tier -> handled by Controllers and JSP pages.
 
 ![img](https://user-images.githubusercontent.com/111267682/220085546-10bdddea-a42f-4402-915a-6ecd37e54552.png)
+
+# Technologies
+1.MySQL 8.0
+2.Tomcat 9.0.71
+3.Maven
+4.JDBC
+5.Java Servlet
+6.Java programming language (JDK 1.8)
