@@ -39,6 +39,8 @@ Project used 3-tier architecture:
 
 5.Java Servlet
 
+6.Java Server Pages
+
 6.Java programming language (JDK 1.8)
 
 # Instructions to run my project
