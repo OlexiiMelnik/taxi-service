@@ -43,5 +43,9 @@ Project used 3-tier architecture:
 
 # Instructions to run my project
 • To get the actual parameters of the database tables, run script from the resources/init_db.sql file in the Workbench.
+
 • Configure connection to your database in util package
-• Add your local server in the configurations. Will be better using Tomcat 9.0.71.
+
+• Add your local server in the configurations.
+
+• Will be better using Tomcat 9.0.71.
